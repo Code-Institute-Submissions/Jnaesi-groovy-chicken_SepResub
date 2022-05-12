@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald&family=Roboto+Condensed:wght@300&display=swap');
+
+body {
+    font-family: 'Lato', 'Roboto Condensed', 'Oswald', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 200;
+    color: #3a3a3a;
+}
+
+#home {
+    color:blue
+
+}
+
+#about {
+    color:aqua
+
+}
+
+#delivery {
+    color:brown
+
+}
+
+#contact {
+    color: orange
+
+}
