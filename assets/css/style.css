@@ -1,5 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald&family=Roboto+Condensed:wght@300&display=swap');
 
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
 body {
     font-family: 'Lato', 'Roboto Condensed', 'Oswald', sans-serif;
     font-weight: 200;
@@ -24,12 +30,12 @@ body {
     background:url(../images/background1.jpg) no-repeat center center;
     height: 800px;
     width: 100%;
-    display: block;
     background-size: cover;
     background-position: center;
-    font: 40px;
+    font: 0;
     color: orange;
-    overflow:hidden;
+    overflow: hidden;
+    font-size: xx-large;
 
 }
 
@@ -37,10 +43,11 @@ body {
     background:url(../images/background2.jpg);
     height: 800px;
     width: 100%;
-    display: block;
     background-size: cover;
     background-position: center;
-    overflow:hidden;
+    overflow: hidden;
+    color: blueviolet;
+    font-size: xx-large;
 
 }
 
@@ -48,10 +55,11 @@ body {
     background:url(../images/background3.jpg);
     height: 800px;
     width: 100%;
-    display: block;
     background-size: cover;
     background-position: center;
-    overflow:hidden;
+    overflow: hidden;
+    color: whitesmoke;
+    font-size: xx-large;
 
 }
 
@@ -59,10 +67,11 @@ body {
     background:url(../images/image_processing20210130-28576-6dxc4f.jpg);
     height: 800px;
     width: 100%;
-    display: block;
     background-size: cover;
     background-position: center;
-    overflow:hidden;
+    overflow: hidden;
+    color: green;
+    font-size: xx-large;
 
 }
 
@@ -70,9 +79,10 @@ body {
     background:url(../images/image_processing20210130-28576-x0muf8.jpg);
     height: 800px;
     width: 100%;
-    display: block;
     background-size: cover;
     background-position: center;
-    overflow:hidden;
+    overflow: hidden;
+    color: red;
+    font-size: xx-large;
 
 }
