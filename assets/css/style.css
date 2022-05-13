@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald&family=Roboto+Condensed:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Contrail+One&display=swap');
 
 * {
     margin: 0;
@@ -7,89 +7,86 @@
 }
 
 body {
-    font-family: 'Lato', 'Roboto Condensed', 'Oswald', sans-serif;
+    font-family: 'Contrail One', cursive;
     font-weight: 200;
-    color: #ff8801fb;    
+    background-color: rgb(255, 255, 255);    
 }
+
 #logo {
-    text-align: center;
-    background-color: rgba(0, 0, 0, 0.699);
-    overflow: hidden;
-    color: inherit;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 200%;
 }
 #menu {
     font-size: 110%;
     letter-spacing: 4px;
-    background-color: rgba(0, 0, 0, 0.699);
-    overflow: hidden;
 }
 
 #menu li {
     float: right;
     list-style-type: none;
-    margin-left: 30px;
-    background-color: rgba(0, 0, 0, 0.699);
-    overflow: hidden;
+    margin-right: 30px;
+    line-height: 40px;
 }
 
-
-#home {
-    background:url(../images/background1.jpg) no-repeat center center;
-    height: 800px;
-    width: 100%;
-    background-size: cover;
-    background-position: center;
-    font: 20px;
-    overflow: hidden;
-    font-size: large;
-    text-align: center;
+menu a {
+    text-decoration: none;
 
 }
 
-#about {
-    background:url(../images/background2.jpg);
-    height: 800px;
-    width: 100%;
-    background-size: cover;
-    background-position: center;
-    overflow: hidden;
-    color: blueviolet;
-    font-size: xx-large;
-
-}
-
-#delivery {
-    background:url(../images/background3.jpg);
-    height: 800px;
-    width: 100%;
-    background-size: cover;
-    background-position: center;
-    overflow: hidden;
-    color: whitesmoke;
-    font-size: xx-large;
-
-}
-
-#contact {
-    background:url(../images/image_processing20210130-28576-6dxc4f.jpg);
-    height: 800px;
-    width: 100%;
-    background-size: cover;
-    background-position: center;
-    overflow: hidden;
+a:link {
     color: green;
-    font-size: xx-large;
+  }
+  
+  a:visited {
+    color: green;
+  }
+  
+  a:hover {
+    color: hotpink;
+  }
+  
+  a:active {
+    color: blue;
+  }
+
+
+#welcome {
+  margin: auto;
+  padding-top: 50px;
+  text-decoration: solid;
+  color: rgba(241, 102, 10, 0.918);
+  max-inline-size: 7.5cm;
+  text-align: center;
+  text-transform: uppercase;
 
 }
 
-#reservation {
-    background:url(../images/image_processing20210130-28576-x0muf8.jpg);
-    height: 800px;
+#background1 {
+    background:url(../images/background1.jpg) no-repeat center center;
+    height: 400px;
     width: 100%;
     background-size: cover;
-    background-position: center;
-    overflow: hidden;
-    color: red;
-    font-size: xx-large;
+    background-position: center;    
 
+}
+
+footer {
+    height: 150px;
+
+}
+
+.socials {
+    text-align: center;
+}
+
+.socials > li {
+    display: inline;
+}
+
+.socials i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: coral;
 }
