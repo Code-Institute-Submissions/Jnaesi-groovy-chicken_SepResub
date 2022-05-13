@@ -2,14 +2,33 @@
 
 body {
     font-family: 'Lato', 'Roboto Condensed', 'Oswald', sans-serif;
-    font-family: 'Oswald', sans-serif;
-    font-family: 'Roboto Condensed', sans-serif;
     font-weight: 200;
-    color: #3a3a3a;
+    color: #3a3a3a; 
+}
+#menu {
+    font-size: 110%;
+    letter-spacing: 4px;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
+    color: antiquewhite;
+}
+#menu, #logo {
+    line-height: 75px;
 }
 
 #home {
-    color:blue
+    background:url(../images/background1.jpg) no-repeat center center;
+    height: 600px;
+    width: 100%;
+    display: flex;
+    background-size: cover;
+    background-position: center;
+    font: 40px;
+    color: orange;
 
 }
 
