@@ -13,8 +13,8 @@ body {
 }
 
 #logo {
-    margin-top: 30px;
-    margin-bottom: 30px;
+    margin-top: 5px;
+    margin-bottom: 40px;
     font-size: 200%;
     color: green;
 }
@@ -50,30 +50,45 @@ a:link {
   a:active {
     color: blue;
   }
+  
+  h1 {
+    margin: auto;
+    padding-top: 50px;
+    text-decoration: solid;
+    color: rgba(255, 255, 255, 0.918);
+    max-inline-size: 7.5cm;
+    text-align: center;
+    text-transform: uppercase;
 
+  }
 
 #welcome {
   margin: auto;
-  padding-top: 50px;
+  padding-top: 25px;
   text-decoration: solid;
   color: rgba(241, 102, 10, 0.918);
-  max-inline-size: 7.5cm;
+  max-inline-size: 10cm;
   text-align: center;
   text-transform: uppercase;
 
 }
 
 #background1 {
-    background:url(../images/background1.jpg) no-repeat center center;
+    background: rgba(0, 0, 0, .65) url('../images/background2.jpg') no-repeat center center;
+    background-blend-mode: darken;
     height: 400px;
     width: 100%;
     background-size: cover;
-    background-position: center;    
+    background-position: center;
+    opacity: 1.0;      
+}
 
+#background1:hover {
+    opacity: 0.95; 
 }
 
 footer {
-    height: 150px;
+    height: 100px;
 
 }
 
@@ -86,8 +101,8 @@ footer {
 }
 
 .socials i {
-    font-size: 160%;
-    margin: 1%;
+    font-size: 200%;
+    margin: 0.5%;
     padding: 5%;
     color: coral;
 }
