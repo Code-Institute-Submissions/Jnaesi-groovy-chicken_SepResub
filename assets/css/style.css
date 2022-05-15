@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Contrail+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 
 * {
     margin: 0;
@@ -7,7 +7,7 @@
 }
 
 body {
-    font-family: 'Contrail One', cursive;
+    font-family: 'Bebas Neue', cursive;
     font-weight: 200;
     background-color: rgb(255, 255, 255);    
 }
@@ -27,7 +27,7 @@ body {
     float: right;
     list-style-type: none;
     margin-right: 30px;
-    line-height: 40px;
+    line-height: 135px;
 }
 
 menu a {
@@ -76,7 +76,7 @@ a:link {
 #background1 {
     background: rgba(0, 0, 0, .65) url('../images/background2.jpg') no-repeat center center;
     background-blend-mode: darken;
-    height: 400px;
+    height: 335px;
     width: 100%;
     background-size: cover;
     background-position: center;
