@@ -16,6 +16,7 @@ body {
     margin-top: 5px;
     margin-bottom: 40px;
     font-size: 200%;
+    text-align: center;
     color: green;
 }
 #menu {
@@ -102,7 +103,12 @@ footer {
 
 .socials i {
     font-size: 200%;
-    margin: 0.5%;
-    padding: 5%;
+    margin-top: 50px;
+    padding: 2%;
     color: coral;
+}
+
+footer > p {
+    text-align: center;
+    color: green;
 }
