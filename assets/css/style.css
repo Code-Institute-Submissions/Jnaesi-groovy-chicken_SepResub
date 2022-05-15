@@ -63,7 +63,7 @@ a:link {
 
   }
 
-#welcome {
+.welcome {
   margin: auto;
   padding-top: 25px;
   text-decoration: solid;
@@ -87,6 +87,48 @@ a:link {
 #background1:hover {
     opacity: 0.95; 
 }
+.healthy-food {
+    margin: auto;
+    padding-top: 25px;
+    text-decoration: solid;
+    color: rgba(241, 102, 10, 0.918);
+    max-inline-size: 10cm;
+    text-align: center;
+    text-transform: uppercase;
+
+}
+
+.raw-material {
+    margin: auto;
+    padding-top: 25px;
+    text-decoration: solid;
+    color: rgba(241, 102, 10, 0.918);
+    max-inline-size: 10cm;
+    text-align: center;
+    text-transform: uppercase;
+
+}
+
+.delivery {
+    margin: auto;
+    padding-top: 25px;
+    text-decoration: solid;
+    color: rgba(241, 102, 10, 0.918);
+    max-inline-size: 10cm;
+    text-align: center;
+    text-transform: uppercase;
+
+}
+
+.groovy-chicken {
+    margin: auto;
+    padding-top: 25px;
+    text-decoration: solid;
+    color: rgba(241, 102, 10, 0.918);
+    max-inline-size: 10cm;
+    text-align: center;
+    text-transform: uppercase;
+}
 
 footer {
     height: 100px;
@@ -105,10 +147,11 @@ footer {
     font-size: 200%;
     margin-top: 50px;
     padding: 2%;
-    color: coral;
+    color: rgba(241, 102, 10, 0.918);
 }
 
 footer > p {
     text-align: center;
     color: green;
 }
+
