@@ -11,7 +11,7 @@ body {
     font-weight: 200;
     background-color: rgb(255, 255, 255);    
 }
-
+/* Add style to logo */
 #logo {
     margin-top: 5px;
     margin-bottom: 40px;
@@ -19,6 +19,8 @@ body {
     text-align: center;
     color: green;
 }
+
+/* Add style to navigation */
 .nav {
     font-size: 110%;
     letter-spacing: 4px;
@@ -54,7 +56,7 @@ body {
   overflow: hidden;
 }
 
-/* Style and add color to text */  
+/* Add color and style to text */  
   h1 {
     margin: auto;
     padding-top: 45px;
@@ -65,7 +67,7 @@ body {
     text-transform: uppercase;
   }
 
-/* Style and add color to text */  
+/* Add color to text and style it */  
 .welcome {
   margin: auto;
   padding: 45px 45px;
@@ -77,29 +79,30 @@ body {
 
 }
 
-/* Add a background and style/postioning */  
+/* Add a background with style and positioning*/  
 #background1 {
-    background: rgba(0, 0, 0, .65) url('../images/background1.jpg') no-repeat center center;
-    background-blend-mode: darken;
-    height: 335px;
-    width: 100%;
-    background-size: cover;
-    background-position: center;
-    opacity: 1.0;      
+  background: rgba(0, 0, 0, .65) url('../images/background1.jpg') no-repeat center center;
+  background-blend-mode: darken;
+  height: 335px;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+  opacity: 1.0;      
 }
 
 /* Add hover effect to background */
 #background1:hover {
-    opacity: 0.95; 
+  opacity: 0.95; 
 }
+/* Add style to all the text below */
 .healthy-food {
-    margin: auto;
-    padding: 45px 45px;
-    text-decoration: solid;
-    max-inline-size: 10cm;
-    color: green;
-    text-align: center;
-    text-transform: uppercase;
+  margin: auto;
+  padding: 45px 45px;
+  text-decoration: solid;
+  max-inline-size: 10cm;
+  color: green;
+  text-align: center;
+  text-transform: uppercase;
 
 }
 
@@ -115,18 +118,18 @@ body {
 }
 
 .raw-material {
-    margin: auto;
-    padding-top: 50px;
-    text-decoration: solid;
-    max-inline-size: 10cm;
-    color: rgba(255, 255, 255, 0.918);
-    text-align: center;
-    text-transform: uppercase;
+  margin: auto;
+  padding-top: 50px;
+  text-decoration: solid;
+  max-inline-size: 10cm;
+  color: rgba(255, 255, 255, 0.918);
+  text-align: center;
+  text-transform: uppercase;
 
 }
 
 .raw-material-two {
-    margin: auto;
+  margin: auto;
   padding: 45px 45px;
   text-decoration: solid;
   color: rgba(241, 102, 10, 0.918);
@@ -136,6 +139,7 @@ body {
 
 }
 
+/* Add a second background with style and positioning */  
 #background2 {
     background: rgba(0, 0, 0, .65) url('../images/background2.jpg') no-repeat center center;
     background-blend-mode: darken;
@@ -147,11 +151,12 @@ body {
 
 }
 
+/* Add hover effect to background */
 #background2:hover {
     opacity: 0.95; 
 
 }
-
+/* Add style to all the text below */
 .delivery {
     margin: auto;
     padding-top: 25px;
@@ -164,7 +169,7 @@ body {
 }
 
 .delivery-two {
-    margin: auto;
+  margin: auto;
   padding: 45px 45px;
   text-decoration: solid;
   color: rgba(241, 102, 10, 0.918);
@@ -186,7 +191,7 @@ body {
 }
 
 .groovy-chicken-two {
-    margin: auto;
+  margin: auto;
   padding: 45px 45px;
   text-decoration: solid;
   color: rgba(241, 102, 10, 0.918);
@@ -196,11 +201,13 @@ body {
 
 }
 
+
 footer {
     height: 100px;
 
 }
 
+/* Add style to social links and icons */
 .socials {
     text-align: center;
 }
