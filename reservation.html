@@ -4,9 +4,37 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+    <title>Reservation</title>
 </head>
 <body>
-    
+    <header>
+        <nav class="nav-right">
+            <ul class="nav">
+                <li><a href="index.html" class="active">Home</a></li>
+            </ul>
+        </nav>
+        <h1 id="logo">Groovy Chicken</h1>
+    </header>
+    <div class="reservation">
+        <form>
+          <label for="fname">First Name</label>
+          <input type="text" name="fname">
+          <label for="lname">Last Name</label>
+          <input type="text" name="lname"> <br>
+          <label for="email">Email</label>
+          <input type="email" name ='email'>
+          <label for="tel">Telephone Number</label>
+          <input type="tel">
+          <label for="date">Date</label>
+          <input type='date'>
+          <label for="time">Time</label>
+          <input type='time'>
+          <label for="number">No. of guests</label>
+          <input type="number">
+          <label for="comments">Special Requests</label>
+          <textarea name="comments" id="" cols="50" rows="5"></textarea>
+          <button type="submit">Book A Table!</button>
+         </form>
 </body>
 </html>
