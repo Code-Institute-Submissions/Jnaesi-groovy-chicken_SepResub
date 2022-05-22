@@ -17,8 +17,6 @@ A web page about a restaurant that is located in sweden where you can reserve a 
 <img src="../groovy-chicken/assets/images/preview2.jpg" width=400>
 <img src="../groovy-chicken/assets/images/preview3.jpg" width=400>
 
-![Alt text](../groovy-chicken/assets/images/preview3.jpg  "Title")
-
 ## Credits
 
 1. README.MD inspiration by nuxeo.com
