@@ -21,8 +21,11 @@ w3schools.com
 
 
 ## Testing
+Errors:
+1. Error: No p element in scope but a p end tag seen. [Fixed]
 
 HTML
 No errors were returned when passing through the official W3C validator
 CSS
 No errors were found when passing through the official (Jigsaw) validator
+CSS level 3 + SVG!
