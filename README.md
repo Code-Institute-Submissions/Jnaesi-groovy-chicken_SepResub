@@ -1,17 +1,11 @@
 # groovy-chicken
-Groovy Chickens homepage README.
+Groovy Chickens README.
 
 # <Groovy Chicken>
 
 ## Description
 
-- What was your motivation?
-  
-- Why did you build this project? 
-  
-- What problem does it solve?
-  
-- What did you learn?
+A web page about a restaurant that is located in sweden where you can reserve a table on and see what its about.
 
 ## Table of Contents (Optional)
   
