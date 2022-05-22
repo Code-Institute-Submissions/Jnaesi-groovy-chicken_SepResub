@@ -328,7 +328,7 @@ footer>p {
   }
 }
 
-/* for larger to medium screens size from 800px wide and down*/
+/* for larger to medium screens size from 882px wide and down*/
 @media screen and (max-width: 882px) {
 
   #logo {

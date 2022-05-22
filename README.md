@@ -8,9 +8,14 @@ Groovy Chickens README.
 A web page about a restaurant that is located in sweden where you can reserve a table on and see what its about.
 
 ## Table of Contents (Optional)
-  
+- [Preview](#preview) 
 - [Credits](#credits)
 - [Testing](#testing)
+
+## Preview
+<img src="../groovy-chicken/assets/images/preview1.jpg" width=400x250>
+<img src="../groovy-chicken/assets/images/preview2.jpg" width=400x250>
+<img src="../groovy-chicken/assets/images/preview3.jpg" width=400x250>
 
 ## Credits
 
