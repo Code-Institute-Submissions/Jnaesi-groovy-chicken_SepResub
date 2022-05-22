@@ -7,7 +7,7 @@ Groovy Chickens Homepage README.
 
 A web page about a restaurant that is located in sweden where you can reserve a table on and see how the restaurant looks and what its all about.
 
-## Table of Contents (Optional)
+## Table of Contents
 - [Preview](#preview) 
 - [Credits](#credits)
 - [Testing](#testing)
