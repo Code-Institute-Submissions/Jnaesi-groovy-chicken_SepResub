@@ -20,17 +20,18 @@ A web page about a restaurant that is located in sweden where you can reserve a 
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+    
+    ![Preview One](../groovy-chicken/assets/images/preview1.jpg)
+    ![Preview Two](../groovy-chicken/assets/images/preview2.jpg)
+    ![Preview Three](../groovy-chicken/assets/images/preview3.jpg)
+
 
 ## Credits
 README.MD Template inspiration by nuxeo.com
+codeinsitute.com
+stackoverflow.com
+w3schools.com
 
-
-## Features
-
-If your project has a lot of features, list them here. <--------
 
 ## Testing
 
