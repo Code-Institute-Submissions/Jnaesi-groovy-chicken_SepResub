@@ -27,6 +27,7 @@ A web page about a restaurant that is located in sweden where you can reserve a 
 
 ## Testing
 Errors and trouble shooting:
+Issue with images preview in README.md not working on Github.com but works in Gitpod.io
 Error: No p element in scope but a p end tag seen. [Fixed]
 
 HTML
