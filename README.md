@@ -1,5 +1,5 @@
 # groovy-chicken
-Groovy Chickens README.
+Groovy Chickens Homepage README.
 
 # <Groovy Chicken>
 
@@ -26,12 +26,13 @@ A web page about a restaurant that is located in sweden where you can reserve a 
 
 
 ## Testing
-Errors and trouble shooting:
+### Errors And Trouble Shooting:
 
 Issue with images preview in README.md not working on Github.com but works in Gitpod.io [Not fixed]
 
 Error: No p element in scope but a p end tag seen. [Fixed] 2022-05-22
 
+### Validation And Accessability:
 HTML
 No errors were returned when passing through the official W3C validator
 
