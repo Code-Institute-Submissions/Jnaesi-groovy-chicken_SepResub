@@ -253,12 +253,16 @@ input, textarea {
   padding-left: 25px;
 }
 
+/* Submit button for reservation */
+
 button {
   height: 50px;
   background: rgba(241, 102, 10, 0.918);;
   border: none;
   color: white;
-  font-size: 25px;
+  font-size: 15px;
+  text-align: center;
+  padding: 5px;
   border-radius: 4px;
   margin-top: 2%;
 
