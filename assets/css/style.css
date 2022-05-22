@@ -240,7 +240,6 @@ footer {
 }
 
 /* Reservation form styling and button */
-
 input, textarea {
   display: block;
   border-radius: 2px;
@@ -249,12 +248,21 @@ input, textarea {
   padding: 10px 20px;
   margin: 3px 0;
   }
-.reservation {
-  padding-left: 25px;
+
+/* Background with style and positioning*/
+#reservation-background {
+  background: rgba(0, 0, 0, .65) url('../images/reservation-background.jpg') no-repeat center;
+  background-blend-mode: darken;
+  height: 900px;
+  width: 100%;
+  background-size: cover;
+  color: green;
+  padding-left: 2%;
+  padding-top: 2%;
+
 }
 
 /* Submit button for reservation */
-
 button {
   height: 50px;
   background: rgba(241, 102, 10, 0.918);;
