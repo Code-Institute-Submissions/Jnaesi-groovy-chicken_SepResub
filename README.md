@@ -16,7 +16,7 @@ A web page about a restaurant that is located in sweden where you can reserve a 
 
 ## Preview 
 
-<img src="../images/preview1.jpg">
+<img src="/images/preview1.jpg">
 
     
     ![Preview One](assets/images/preview1.jpg)
