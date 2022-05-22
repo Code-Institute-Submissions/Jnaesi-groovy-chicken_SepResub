@@ -21,9 +21,9 @@ A web page about a restaurant that is located in sweden where you can reserve a 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
     
-    ![Preview One](images/preview1.jpg)
-    ![Preview Two](images/preview2.jpg)
-    ![Preview Three](images/preview3.jpg)
+    ![Preview One](assets/images/preview1.jpg)
+    ![Preview Two](assets/images/preview2.jpg)
+    ![Preview Three](assets/images/preview3.jpg)
 
 
 ## Credits
