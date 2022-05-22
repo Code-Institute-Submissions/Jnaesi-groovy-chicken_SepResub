@@ -13,9 +13,9 @@ A web page about a restaurant that is located in sweden where you can reserve a 
 - [Testing](#testing)
 
 ## Preview
-<img src="../groovy-chicken/assets/images/preview1.jpg" width=400x250>
-<img src="../groovy-chicken/assets/images/preview2.jpg" width=400x250>
-<img src="../groovy-chicken/assets/images/preview3.jpg" width=400x250>
+<img src="groovy-chicken/assets/images/preview1.jpg" width=400>
+<img src="groovy-chicken/assets/images/preview2.jpg" width=400>
+<img src="groovy-chicken/assets/images/preview3.jpg" width=400>
 
 ## Credits
 
