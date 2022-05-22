@@ -19,15 +19,15 @@ A web page about a restaurant that is located in sweden where you can reserve a 
 
 ## Credits
 
-README.MD inspiration by nuxeo.com
-codeinsitute.com
-stackoverflow.com
-w3schools.com
+1. README.MD inspiration by nuxeo.com
+2. codeinsitute.com
+3. stackoverflow.com
+4. w3schools.com
 
 
 ## Testing
-Errors:
-1. Error: No p element in scope but a p end tag seen. [Fixed]
+Errors and trouble shooting:
+Error: No p element in scope but a p end tag seen. [Fixed]
 
 HTML
 No errors were returned when passing through the official W3C validator
