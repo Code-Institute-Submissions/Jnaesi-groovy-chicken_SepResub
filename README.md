@@ -19,7 +19,7 @@ A web page about a restaurant that is located in sweden where you can reserve a 
 
 ## Credits
 
-README.MD Template inspiration by nuxeo.com
+README.MD inspiration by nuxeo.com
 codeinsitute.com
 stackoverflow.com
 w3schools.com
