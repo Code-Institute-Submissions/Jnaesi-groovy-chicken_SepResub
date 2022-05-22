@@ -304,3 +304,40 @@ footer>p {
   color: green;
 
 }
+
+/* Media Queries*/
+
+/* for larger to medium screens size from 1200px wide and down*/
+@media screen and (max-width: 1200px) {
+
+  #logo {
+      width: 20%;
+      margin: auto;
+      position: relative;
+      padding: 10px;
+  }
+  
+  .nav {
+      padding: 10px;
+      margin-right: 5px;
+      float: right;
+  }
+
+  hr {
+      display: none;
+  }
+}
+
+/* for larger to medium screens size from 800px wide and down*/
+@media screen and (max-width: 882px) {
+
+  #logo {
+    margin-right: auto;
+  }
+
+  .welcome {
+    padding: 10px 10px; 
+    font-size: smaller;
+}
+
+}
