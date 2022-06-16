@@ -27,7 +27,7 @@ A web page about a restaurant that is located in sweden where you can reserve a 
 ## Testing
 ### Errors And Trouble Shooting:
 
-Issue with images preview in README.md not working on Github.com but works in Gitpod.io [Not fixed]
+Issue with images preview in README.md not working on Github.com but works in Gitpod.io [Fixed] 2022-06-15
 
 Error: No p element in scope but a p end tag seen. [Fixed] 2022-05-22
 
@@ -42,3 +42,5 @@ CSS level 3 + SVG!
 
 Lighthouse
 Accessability report = 96% accessibility
+
+<img src = 'assets/images/Accessability.png' alt = "Lighthouse" width=400> </img>
