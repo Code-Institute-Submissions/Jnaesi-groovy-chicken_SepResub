@@ -42,5 +42,3 @@ CSS level 3 + SVG!
 
 Lighthouse
 Accessability report = 96% accessibility
-
-<img src = 'assets/images/Accessability.png' alt = "Lighthouse" width=400> </img>
