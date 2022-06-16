@@ -13,10 +13,9 @@ A web page about a restaurant that is located in sweden where you can reserve a 
 - [Testing](#testing)
 
 ## Preview
-<img src="../groovy-chicken/assets/images/preview1.jpg" width=400>
-<img src="../groovy-chicken/assets/images/preview2.jpg" width=400>
-<img src="../groovy-chicken/assets/images/preview3.jpg" width=400>
-
+<img src = 'assets/images/preview1.jpg' alt = "Homepage of the website" width=400> </img>
+<img src = 'assets/images/preview2.jpg' alt = "Second part of homepage" width=400> </img>
+<img src = 'assets/images/preview3.jpg' alt = "Signup form" width=400> </img>
 ## Credits
 
 1. README.MD inspiration by nuxeo.com
