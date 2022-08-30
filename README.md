@@ -2,7 +2,7 @@
 ## Introduction
 Groovy Chicken is a website built for an restaurant in HTML and CSS. The page is about a restaurant that is located in sweden where you can reserve a table on and see how the restaurant looks and what its all about.
 
-<img src = 'assets/images/preview1.jpg' alt = "Homepage of the website" width=400> </img>
+<img src = 'assets/images/preview1.jpg' alt = "Homepage of the website" width=1200> </img>
 
 ## Table of Contents
 * [Introduction](#Introduction)
