@@ -33,7 +33,7 @@ I used Mockflow to produce wireframes of how the game would look across differen
 
 # Features
 * Common Features
-The site is designed with a central layout that the css inserts the relevant HTML into with the title and site backgrounds of the restaurant
+The site is designed with a central layout that the HTML inserts the relevant CSS into.
 
 #### Main page
 <img src = 'assets/images/preview1.jpg' alt = "Homepage of the website" width=400> </img>
@@ -80,14 +80,6 @@ There is some content overflow that is not fixed for mobile devices on the reser
 2. codeinsitute.com
 3. stackoverflow.com
 4. w3schools.com
-
-### CSS
-#### buttons
-* https://www.w3schools.com/css/css3_buttons.asp
-#### 
-####  hover
-* https://www.w3schools.com/csSref/sel_hover.asp
-
 
 ### Reference Material
 The sites below where used as reference point for HTML/CSS
