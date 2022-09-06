@@ -2,7 +2,7 @@
 ## Introduction
 Groovy Chicken is a website built for an restaurant in HTML and CSS. The page is about a restaurant that is located in sweden where you can reserve a table on and see how the restaurant looks and what its all about.
 
-<img src = 'assets/images/preview1.jpg' alt = "Homepage of the website" width=1200> </img>
+<img src = 'assets/images/Sitefullhome.jpg' alt = "Homepage of the website" width=1200> </img>
 
 ## Table of Contents
 * [Introduction](#Introduction)
@@ -28,27 +28,30 @@ Groovy Chicken is a website built for an restaurant in HTML and CSS. The page is
 I used Mockflow to produce wireframes of how the game would look across different devices.
 
 #### Wireframe
-<img src="assets/images/wireframe.jpg" alt="drawing" width="1960" height="600"/>
+<img src="assets/images/wireframe.jpg" alt="drawing" width="800" height="600"/>
 
 
 # Features
 * Common Features
 The site is designed with a central layout that the HTML inserts the relevant CSS into.
 
-#### Main page
-<img src = 'assets/images/preview1.jpg' alt = "Homepage of the website" width=400> </img>
+#### Main Page
+<img src = 'assets/images/Sitefullhome.jpg' alt = "Homepage of the website" width=400> </img>
 
-#### Second part of homepage
-<img src = 'assets/images/preview2.jpg' alt = "Second part of homepage" width=400> </img>
+#### Second Part Of Homepage
+<img src = 'assets/images/Sitefullbottom.jpg' alt = "Second part of homepage" width=400> </img>
 
-#### Signup form
-<img src = 'assets/images/preview3.jpg' alt = "Signup form" width=400> </img>
+#### Reservation form
+<img src = 'assets/images/Sitefullreservation.jpg' alt = "Reservation form" width=400> </img>
 
+#### Mobile Device Preview
+
+<img src = 'assets/images/Sitemobile.jpg' alt = "Reservation form" width=250> </img>
 
 
 ## Testing
 
-There was an issue with content overflow on reservation page.
+1: There was an issue with content overflow on reservation page. [Fixed]
 
 #### Validator Testing
 * HTML
