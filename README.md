@@ -1,6 +1,6 @@
 # Groovy-Chicken
 ## Introduction
-Groovy Chicken is a website built for an restaurant in HTML and CSS. The page is about a restaurant that is located in sweden where you can reserve a table on and see how the restaurant looks and what its all about.
+Groovy Chicken is a website built for an restaurant in HTML and CSS. The page is about a restaurant that is located in sweden that only serves 100% "green" chicken where you can reserve a table on and see how the restaurant looks and what its all about. 
 
 <img src = 'assets/images/Sitefullhome.jpg' alt = "Homepage of the website" width=1200> </img>
 
@@ -35,6 +35,9 @@ I used Mockflow to produce wireframes of how the game would look across differen
 * Common Features
 The site is designed with a central layout that the HTML inserts the relevant CSS into.
 
+* Future Features
+There will be an form added where you can order food that has different delivery options.
+
 #### Main Page
 <img src = 'assets/images/Sitefullhome.jpg' alt = "Homepage of the website" width=400> </img>
 
@@ -66,7 +69,7 @@ The site is designed with a central layout that the HTML inserts the relevant CS
   <img src="assets/images/Lighthouse.jpg" alt="Refresh" width="500" height="200"/>
 
 #### Notable Bugs
-There is some content overflow that is not fixed for mobile devices on the reservation page.
+No notable bugs during testing.
 
 ## Deployment
 
